@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HabitRPG - Hide System Messages in Party
 // @namespace    https://anl.gg/
-// @version      0.1.1
+// @version      0.1.2
 // @description  Don't show system messages in party by default.
 // @author       greatghoul
 // @updateURL    https://github.com/greatghoul/habitrpg_userscripts/raw/refs/heads/main/Hide%20System%20Messages%20in%20Party/main.user.js
